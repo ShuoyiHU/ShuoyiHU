@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ShuoyiHU
-- 👀 I’m interested in all kinds of natural sciences subjects and liberal arts.
-- 🌱 I’m currently pursuing a Bachelor of Physics. 
-- 💞️ And I had experience in studying biology, including basic molecular and cell experiments.
-- 📫 Reach me by sending email to hushuoyi@westlake.edu.cn
+- Hi, I’m @ShuoyiHU
+- I’m currently pursuing a Bachelor of Physics. 
+- And I had experience in studying biology, including basic molecular and cell experiments.
+- Reach me by sending email to hushuoyi@westlake.edu.cn
 
 
 <!---
